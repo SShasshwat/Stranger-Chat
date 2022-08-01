@@ -40,6 +40,3 @@ In no particular order:
 * Better URL matching
 * Audio notification & title notification
 
-License
----
-GNU General Public License V3
